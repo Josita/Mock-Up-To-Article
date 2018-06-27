@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Hello ALC and udacity
+Thank you for giving me this opportunity to learn Front End web Development.
+I have learnt HTML and css
+Both languages look okay but they are abit challanging,I found CSS to be much more enjoyable since it was easy to grasp.
+I still have some few problems with connectiong css to html Filter.
+I could say that I have used Mock-up to article to solve the issues I was facing with HTML and css
